@@ -1,9 +1,8 @@
-/* Primera parte:
+/* 
+    Primera parte:
 
-Crear una función con tres parámetros que sean números que se suman entre sí.
-Llamar a la función en el main y darle valores.
-
-
+        Crear una función con tres parámetros que sean números que se suman entre sí.
+        Llamar a la función en el main y darle valores.
  */
 
 public class Main {
@@ -17,7 +16,7 @@ public class Main {
 }
 
 /*
-Segunda parte:
+    Segunda parte:
 
          Crear una clase coche.
 
@@ -28,7 +27,6 @@ Segunda parte:
          Crear un objeto miCoche en el main y añadirle una puerta.
 
          Mostrar el número de puertas que tiene el objeto.
-
  */
 
 public class Main {
